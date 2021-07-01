@@ -1,0 +1,68 @@
+.Advanced_search{
+    color: rgb(216, 20, 20);
+    font-size: 25px;
+    padding-top: 1cm;
+    padding-left: .8cm ;
+
+}
+.Fpw{
+    font-size: 25px;
+    padding-left: 1cm;
+    padding-top: 8cm;
+}
+.Todo{
+    padding-left: 12.4cm;
+    font-size: 20px;
+    color: rgb(117, 107, 107);
+}
+.top{
+    padding-top: 1.5cm;
+}
+.form_group_row{
+    padding-left: 1cm;
+    padding-top: 0.6cm;
+}
+.common{
+    font-size: 16px;
+    font-weight: 70px;
+    font-size: 17px;
+}
+.form_control{
+    width: 12cm;
+    height: 0.6cm;
+}
+.form_control1{
+    width: 5.62cm;
+    height: 0.6cm;
+}
+#b1{
+    margin-left: 2cm;
+}
+#b2{
+    margin-left: .2cm;
+}
+#b3{
+    margin-left: 1.35cm;
+}
+#b4{
+    margin-left: 1.14cm;
+}
+#b5{
+    margin-left: 0.73cm;
+}
+.cr{
+    margin-left: 0.5cm;
+    font-size: 15px;
+    color: rgb(117, 107, 107);
+}
+.bluebutton{
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: rgb(27, 27, 218);
+    font-size: 17px;
+    margin-top: 1cm;
+    margin-left: 14.5cm;
+    padding: 7px;
+    border-radius: 6px;
+    font-size: 90%;
+}

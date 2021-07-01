@@ -2,11 +2,51 @@
 <html lang="en">
     <head>
         <title>Advanced search</title>
+        <link rel="stylesheet" href="advansear.css"
     </head>
     <body>
+        <div class="gimag">
+            <img src="google.png" width="90px">
+        </div>
+        <div class="Advanced_search">
+            Advanced Search
+        </div>
+        <div class="top">
+           <label class="Fpw">Find pages with....</label>
+           <label class="Todo">To do this in the search box.</label>
+        </div>
         <form action="https://google.com/search">
-            <input type="text" name="q">
-            <input type="submit" value="Google Search">
+        <div class="form_group_row">
+            <label class="common">all these words:</label>
+            <input id="b1" type="text" class="form_control" name="as_q" autofocus="autofocus">
+            <label class="cr">Type the important words: tri-colour rat terrier</label>
+        </div>
+        <div class="form_group_row">
+            <label class="common">this exact word or phrase:</label>
+            <input id="b2" type="text" class="form_control" name="as_epq" autofocus="autofocus">
+            <label class="cr">Put exact words in quotes: "rat terrier"</label>
+        </div>
+        <div class="form_group_row">
+            <label class="common">any of these words:</label>
+            <input id="b3" type="text" class="form_control" name="as_oq" autofocus="autofocus">
+            <label class="cr">Type OR between all the words you want: miniature OR standard</label>
+        </div>
+        <div class="form_group_row">
+            <label class="common">none of these words:</label>
+            <input id="b4" type="text" class="form_control" name="as_eq" autofocus="autofocus">
+            <label class="cr">Put a minus sign just before words that you don't want: -rodent, -"Jack Russell"</label>
+        </div>
+        <div class="form_group_row">
+            <label class="common">numbers ranging from:</label>
+            <input id="b5" type="text" class="form_control1" name="as_nlo" autofocus="autofocus">
+            <label>to</label>
+            <input type="text" class="form_control1" name="as_nhi" autofocus="autofocus">
+            <span id="b6" class="cr">Put two full stops between the numbers and add a unit of measurement: 10..35 kg, £300..£500, 2010..2011</span>
+        </div>
+        
+            <div>
+            <input type="submit" value="Advanced Search" class="bluebutton" data-toggle="button">
+            </div>
         </form>
     </body>
 </html>

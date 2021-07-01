@@ -17,6 +17,7 @@
 }
 .top{
     padding-top: 1.5cm;
+    padding-bottom: 0.4cm;
 }
 .form_group_row{
     padding-left: 1cm;
@@ -65,4 +66,18 @@
     padding: 7px;
     border-radius: 6px;
     font-size: 90%;
+}
+#google{
+    color: black;
+    font-weight: 20px;
+    font-size: 20px;
+    padding-left: 965px;
+    text-decoration: none;
+}
+#image{
+    color: black;
+    font-weight: 15px;
+    font-size: 20px;
+    padding-left: 20px;
+    text-decoration: none;
 }

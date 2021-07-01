@@ -1,0 +1,49 @@
+#image{
+    color: blue;
+    font-weight: 20px;
+    font-size: 20px;
+    padding-left: 1060px;
+    ;
+}
+#Advanced{
+    color: blue;
+    font-weight: 15px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+#glogo{
+    width: 300px;
+    padding-left: 14cm;
+    padding-top: 2.5cm;
+}
+#searchbox{
+    margin-left: 11.4cm;
+    margin-top: 0.2cm;
+    border-radius: 25px;
+    height: 1cm;
+    width: 13cm;
+    font-weight: 15px;
+    font-size: 18px;
+}
+#searchbutton{
+    margin-left: 13cm;
+    margin-top: 0.7cm;
+    font-size: 17px;
+    border-color: whitesmoke;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+}
+#iamluckybutton{
+    margin-left: 1.6cm;
+    margin-top: 0.7cm;
+    font-size: 17px;
+    border-color: whitesmoke;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+}

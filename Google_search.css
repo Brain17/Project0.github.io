@@ -1,17 +1,19 @@
 #image{
-    color: blue;
+    color: black;
     font-weight: 20px;
     font-size: 20px;
     padding-left: 1060px;
-    ;
+    text-decoration: none;    ;
 }
 #Advanced{
-    color: blue;
+    color: black;
     font-weight: 15px;
     font-size: 20px;
     padding-left: 20px;
+    text-decoration: none;
 }
 #glogo{
+    display: flex;
     width: 300px;
     padding-left: 14cm;
     padding-top: 2.5cm;
@@ -21,9 +23,11 @@
     margin-top: 0.2cm;
     border-radius: 25px;
     height: 1cm;
-    width: 13cm;
+    width: 11cm;
     font-weight: 15px;
     font-size: 18px;
+    padding-left: 35px;
+    padding-right: 40px;
 }
 #searchbutton{
     margin-left: 13cm;
